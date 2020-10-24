@@ -1,6 +1,7 @@
 const defaultResult = 0;
 let currentResult = defaultResult;
 
+// Gets input from input field
 function getUserNumberInput() {
   return parseInt(usrInput.value);
 }
